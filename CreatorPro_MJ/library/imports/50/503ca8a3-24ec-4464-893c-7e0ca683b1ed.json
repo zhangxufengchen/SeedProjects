@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Inputbox",
+    "texture": "d48c85eb-1c90-43cb-ad2a-351e803cbfb0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      196,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      196,
+      40
+    ],
+    "rotated": 0
+  }
+}

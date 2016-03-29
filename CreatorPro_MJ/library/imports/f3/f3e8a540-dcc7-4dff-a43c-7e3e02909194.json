@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roomBg4",
+    "texture": "51fb0c09-44ba-4c39-a833-4502fb1865e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      242
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      242
+    ],
+    "rotated": 0
+  }
+}
