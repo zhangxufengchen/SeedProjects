@@ -1,23 +1,29 @@
 cc._RFpush(module, '280c3rsZJJKnZ9RqbALVwtK', 'HelloWorld');
-// Script\HelloWorld.js
+// Script/HelloWorld.js
 
 'use strict';
 
 cc.Class({
     'extends': cc.Component,
 
-    properties: {
-        label: {
-            'default': null,
-            type: cc.Label
-        },
-        text: 'Hello, World!'
-    },
+    properties: {},
 
     // use this for initialization
     onLoad: function onLoad() {
-        this.label.string = this.text;
         var root = this;
+
+        if (cc.isNative) {
+            window.io = SocketIO;
+        } else {
+            require('socket.io');
+        }
+        var socket = io('http://localhost:3000');
+        socket.on('消息', function (msg) {
+            console.log(msg);
+        });
+
+        socket.emit('登录', 'message');
+        socket.emit('消息', '123161616516');
 
         //http get
 

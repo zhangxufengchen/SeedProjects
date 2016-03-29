@@ -1,5 +1,5 @@
 cc._RFpush(module, 'bf269SHOdVBvLyamtHjegxg', 'Login');
-// Script\Login.js
+// Script/Login/Login.js
 
 "use strict";
 
@@ -11,21 +11,28 @@ cc.Class({
         registerLayer: {
             "default": null,
             type: cc.Node
+        },
+        audioManager: {
+            "default": null,
+            type: cc.Node
         }
 
+        // foo: {
+        //    default: null,
+        //    url: cc.Texture2D,  // optional, default is typeof default
+        //    serializable: true, // optional, default is true
+        //    visible: true,      // optional, default is true
+        //    displayName: 'Foo', // optional
+        //    readonly: false,    // optional, default is false
+        // },
+        // ...
     },
 
-    // foo: {
-    //    default: null,
-    //    url: cc.Texture2D,  // optional, default is typeof default
-    //    serializable: true, // optional, default is true
-    //    visible: true,      // optional, default is true
-    //    displayName: 'Foo', // optional
-    //    readonly: false,    // optional, default is false
-    // },
-    // ...
     // use this for initialization
-    onLoad: function onLoad() {},
+    onLoad: function onLoad() {
+        this.audioManager = this.audioManager.getComponent('AudioManager');
+        this.audioManager.playMusic();
+    },
 
     onLogIn: function onLogIn() {
         console.log("logIn");

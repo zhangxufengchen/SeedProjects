@@ -7,6 +7,10 @@ cc.Class({
             default : null,
             type : cc.Node
         },
+        audioManager: {
+            default: null,
+            type: cc.Node
+        }
         
         // foo: {
         //    default: null,
@@ -21,7 +25,8 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
-        
+        this.audioManager = this.audioManager.getComponent('AudioManager');
+        this.audioManager.playMusic();
     },
     
     onLogIn: function()
