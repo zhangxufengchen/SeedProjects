@@ -1,5 +1,5 @@
 cc._RFpush(module, '72723WvUhFK8rF7P/HeINQl', 'GameList');
-// Script/GameList/GameList.js
+// Script\GameList\GameList.js
 
 'use strict';
 

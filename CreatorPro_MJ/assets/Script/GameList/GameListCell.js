@@ -12,7 +12,7 @@ cc.Class({
             default:null,
             type:cc.Label
         },
-        spriteList: {
+        SpriteList: {
             default: [],
             type: [cc.SpriteFrame]
         },
@@ -27,7 +27,7 @@ cc.Class({
         var com = this.getComponent(cc.Sprite);
         //com.spriteFrame = frame; 
         
-        com.spriteFrame = this.spriteList[this.GameId];
+        com.spriteFrame = this.SpriteList[this.GameId];
         
         this.Label.string = this.CoinNum.toString();
     },

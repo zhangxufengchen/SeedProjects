@@ -1,5 +1,5 @@
 cc._RFpush(module, '270cfZBcSFGtbROuX4xZks7', 'Game');
-// Script/Game/Game.js
+// Script\Game\Game.js
 
 'use strict';
 

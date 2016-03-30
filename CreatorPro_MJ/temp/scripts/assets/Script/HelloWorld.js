@@ -1,5 +1,5 @@
 cc._RFpush(module, '280c3rsZJJKnZ9RqbALVwtK', 'HelloWorld');
-// Script/HelloWorld.js
+// Script\HelloWorld.js
 
 'use strict';
 

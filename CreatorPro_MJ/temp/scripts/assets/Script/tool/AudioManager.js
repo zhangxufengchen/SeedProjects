@@ -1,5 +1,5 @@
 cc._RFpush(module, '63f2f1ufHNIJJemeWUUhfm5', 'AudioManager');
-// Script/tool/AudioManager.js
+// Script\tool\AudioManager.js
 
 "use strict";
 

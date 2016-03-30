@@ -43,7 +43,7 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 156.5,
+      "x": 0,
       "y": 0
     },
     "_skewX": 0,
@@ -151,7 +151,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "8816aqJYTdHpL9TAVtUzq2N"
+    "fileId": "bc98fJYDnxDoaYXwlBRc8vr"
   },
   {
     "__type__": "cc.Sprite",
@@ -242,7 +242,7 @@
     "Label": {
       "__id__": 3
     },
-    "spriteList": [
+    "SpriteList": [
       {
         "__uuid__": "2015d250-c0ec-444f-aa26-9456470162c1"
       },
@@ -253,7 +253,10 @@
         "__uuid__": "a349ef8e-5619-42e5-90ed-aeec9a98f985"
       },
       {
-        "__uuid__": "f3e8a540-dcc7-4dff-a43c-7e3e02909194"
+        "__uuid__": "098e160f-959b-4fc0-bcf0-b8ab5fa0284e"
+      },
+      {
+        "__uuid__": "93650437-d4ad-4ac7-80c5-6e884e4929ea"
       }
     ]
   },
@@ -263,6 +266,6 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "d821dGyZndAKK1r8mWP1ykF"
+    "fileId": "7a890nf3khMXJsQxHuuKKXf"
   }
 ]

@@ -1,5 +1,5 @@
 cc._RFpush(module, 'bf269SHOdVBvLyamtHjegxg', 'Login');
-// Script/Login/Login.js
+// Script\Login\Login.js
 
 "use strict";
 
