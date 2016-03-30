@@ -141,15 +141,6 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>mj/down_0007_-.png</filename>
-            <filename>mj/down_0008_-.png</filename>
-            <filename>mj/down_0009_-.png</filename>
-            <filename>mj/down_0010_-.png</filename>
-            <filename>mj/down_0011_-.png</filename>
-            <filename>mj/down_0012_-.png</filename>
-            <filename>mj/down_0013_-.png</filename>
-            <filename>mj/down_0014_-.png</filename>
-            <filename>mj/down_0015_-.png</filename>
             <filename>mj/down_0016_-.png</filename>
             <filename>mj/down_0017_-.png</filename>
             <filename>mj/down_0018_-.png</filename>
@@ -178,6 +169,7 @@
             <filename>mj/down_0041_-.png</filename>
             <filename>mj/down_0042_-.png</filename>
             <filename>mj/down_0043_-.png</filename>
+            <filename>mj/left_0000_-.png</filename>
             <filename>mj/left_0001_-.png</filename>
             <filename>mj/left_0002_-.png</filename>
             <filename>mj/left_0003_-.png</filename>
@@ -265,6 +257,50 @@
             <filename>mj/own_down_0041_-.png</filename>
             <filename>mj/own_down_0042_-.png</filename>
             <filename>mj/own_down_0043_-.png</filename>
+            <filename>mj/own_up_0000_-.png</filename>
+            <filename>mj/own_up_0001_-.png</filename>
+            <filename>mj/own_up_0002_-.png</filename>
+            <filename>mj/own_up_0003_-.png</filename>
+            <filename>mj/own_up_0004_-.png</filename>
+            <filename>mj/own_up_0005_-.png</filename>
+            <filename>mj/own_up_0006_-.png</filename>
+            <filename>mj/own_up_0007_-.png</filename>
+            <filename>mj/own_up_0008_-.png</filename>
+            <filename>mj/own_up_0009_-.png</filename>
+            <filename>mj/own_up_0010_-.png</filename>
+            <filename>mj/own_up_0011_-.png</filename>
+            <filename>mj/own_up_0012_-.png</filename>
+            <filename>mj/own_up_0013_-.png</filename>
+            <filename>mj/own_up_0014_-.png</filename>
+            <filename>mj/own_up_0015_-.png</filename>
+            <filename>mj/own_up_0016_-.png</filename>
+            <filename>mj/own_up_0017_-.png</filename>
+            <filename>mj/own_up_0018_-.png</filename>
+            <filename>mj/own_up_0019_-.png</filename>
+            <filename>mj/own_up_0020_-.png</filename>
+            <filename>mj/own_up_0021_-.png</filename>
+            <filename>mj/own_up_0022_-.png</filename>
+            <filename>mj/own_up_0023_-.png</filename>
+            <filename>mj/own_up_0024_-.png</filename>
+            <filename>mj/own_up_0025_-.png</filename>
+            <filename>mj/own_up_0026_-.png</filename>
+            <filename>mj/own_up_0027_-.png</filename>
+            <filename>mj/own_up_0028_-.png</filename>
+            <filename>mj/own_up_0029_-.png</filename>
+            <filename>mj/own_up_0030_-.png</filename>
+            <filename>mj/own_up_0031_-.png</filename>
+            <filename>mj/own_up_0032_-.png</filename>
+            <filename>mj/own_up_0033_-.png</filename>
+            <filename>mj/own_up_0034_-.png</filename>
+            <filename>mj/own_up_0035_-.png</filename>
+            <filename>mj/own_up_0036_-.png</filename>
+            <filename>mj/own_up_0037_-.png</filename>
+            <filename>mj/own_up_0038_-.png</filename>
+            <filename>mj/own_up_0039_-.png</filename>
+            <filename>mj/own_up_0040_-.png</filename>
+            <filename>mj/own_up_0041_-.png</filename>
+            <filename>mj/own_up_0042_-.png</filename>
+            <filename>mj/own_up_0043_-.png</filename>
             <filename>mj/right_0000_-.png</filename>
             <filename>mj/right_0001_-.png</filename>
             <filename>mj/right_0002_-.png</filename>
@@ -353,50 +389,6 @@
             <filename>mj/up_0041_-.png</filename>
             <filename>mj/up_0042_-.png</filename>
             <filename>mj/up_0043_-.png</filename>
-            <filename>mj/won_down_0000_-.png</filename>
-            <filename>mj/won_down_0001_-.png</filename>
-            <filename>mj/won_down_0002_-.png</filename>
-            <filename>mj/won_down_0003_-.png</filename>
-            <filename>mj/won_down_0004_-.png</filename>
-            <filename>mj/won_down_0005_-.png</filename>
-            <filename>mj/won_down_0006_-.png</filename>
-            <filename>mj/won_down_0007_-.png</filename>
-            <filename>mj/won_down_0008_-.png</filename>
-            <filename>mj/won_down_0009_-.png</filename>
-            <filename>mj/won_down_0010_-.png</filename>
-            <filename>mj/won_down_0011_-.png</filename>
-            <filename>mj/won_down_0012_-.png</filename>
-            <filename>mj/won_down_0013_-.png</filename>
-            <filename>mj/won_down_0014_-.png</filename>
-            <filename>mj/won_down_0015_-.png</filename>
-            <filename>mj/won_down_0016_-.png</filename>
-            <filename>mj/won_down_0017_-.png</filename>
-            <filename>mj/won_down_0018_-.png</filename>
-            <filename>mj/won_down_0019_-.png</filename>
-            <filename>mj/won_down_0020_-.png</filename>
-            <filename>mj/won_down_0021_-.png</filename>
-            <filename>mj/won_down_0022_-.png</filename>
-            <filename>mj/won_down_0023_-.png</filename>
-            <filename>mj/won_down_0024_-.png</filename>
-            <filename>mj/won_down_0025_-.png</filename>
-            <filename>mj/won_down_0026_-.png</filename>
-            <filename>mj/won_down_0027_-.png</filename>
-            <filename>mj/won_down_0028_-.png</filename>
-            <filename>mj/won_down_0029_-.png</filename>
-            <filename>mj/won_down_0030_-.png</filename>
-            <filename>mj/won_down_0031_-.png</filename>
-            <filename>mj/won_down_0032_-.png</filename>
-            <filename>mj/won_down_0033_-.png</filename>
-            <filename>mj/won_down_0034_-.png</filename>
-            <filename>mj/won_down_0035_-.png</filename>
-            <filename>mj/won_down_0036_-.png</filename>
-            <filename>mj/won_down_0037_-.png</filename>
-            <filename>mj/won_down_0038_-.png</filename>
-            <filename>mj/won_down_0039_-.png</filename>
-            <filename>mj/won_down_0040_-.png</filename>
-            <filename>mj/won_down_0041_-.png</filename>
-            <filename>mj/won_down_0042_-.png</filename>
-            <filename>mj/won_down_0043_-.png</filename>
             <filename>mj/down_0000_-.png</filename>
             <filename>mj/down_0001_-.png</filename>
             <filename>mj/down_0002_-.png</filename>
@@ -404,7 +396,15 @@
             <filename>mj/down_0004_-.png</filename>
             <filename>mj/down_0005_-.png</filename>
             <filename>mj/down_0006_-.png</filename>
-            <filename>mj/left_0000_-.png</filename>
+            <filename>mj/down_0007_-.png</filename>
+            <filename>mj/down_0008_-.png</filename>
+            <filename>mj/down_0009_-.png</filename>
+            <filename>mj/down_0010_-.png</filename>
+            <filename>mj/down_0011_-.png</filename>
+            <filename>mj/down_0012_-.png</filename>
+            <filename>mj/down_0013_-.png</filename>
+            <filename>mj/down_0014_-.png</filename>
+            <filename>mj/down_0015_-.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
