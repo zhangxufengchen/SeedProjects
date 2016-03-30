@@ -1,7 +1,6 @@
+"use strict";
 cc._RFpush(module, '72723WvUhFK8rF7P/HeINQl', 'GameList');
-// Script\GameList\GameList.js
-
-'use strict';
+// Script/GameList/GameList.js
 
 cc.Class({
     'extends': cc.Component,
@@ -30,7 +29,7 @@ cc.Class({
         this.audioManager = this.audioManager.getComponent('AudioManager');
         this.audioManager.playMusic();
 
-        for (i = 0; i < 4; ++i) {
+        for (var i = 0; i < 4; ++i) {
             var newCell = cc.instantiate(this.Cell_prefab);
 
             newCell.getComponent('GameListCell').GameId = i;

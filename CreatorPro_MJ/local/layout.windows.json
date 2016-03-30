@@ -2,16 +2,16 @@
   "windows": {
     "main": {
       "x": 0,
-      "y": 0,
-      "width": 1456,
-      "height": 876,
+      "y": 23,
+      "width": 1440,
+      "height": 833,
       "layout": {
         "docks": [
           {
             "docks": [
               {
                 "active": 0,
-                "height": 546,
+                "height": 539,
                 "panels": [
                   "hierarchy.panel"
                 ],
@@ -20,7 +20,7 @@
               },
               {
                 "active": 0,
-                "height": 546,
+                "height": 539,
                 "panels": [
                   "assets.panel"
                 ],
@@ -29,24 +29,24 @@
               },
               {
                 "active": 0,
-                "height": 546,
+                "height": 539,
                 "panels": [
                   "scene.panel"
                 ],
                 "type": "panel",
-                "width": 674
+                "width": 525
               },
               {
                 "active": 0,
-                "height": 546,
+                "height": 539,
                 "panels": [
                   "inspector.panel"
                 ],
                 "type": "panel",
-                "width": 304
+                "width": 453
               }
             ],
-            "height": 546,
+            "height": 539,
             "row": true,
             "type": "dock",
             "width": 1434

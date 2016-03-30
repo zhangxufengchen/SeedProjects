@@ -1,5 +1,6 @@
+"use strict";
 cc._RFpush(module, '98d48Z0qrVEv6aaRh6QNNZa', 'Card');
-// Script\Game\Card.js
+// Script/Game/Card.js
 
 "use strict";
 

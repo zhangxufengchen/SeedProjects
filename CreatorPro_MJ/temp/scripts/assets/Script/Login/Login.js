@@ -1,11 +1,13 @@
-cc._RFpush(module, 'bf269SHOdVBvLyamtHjegxg', 'Login');
-// Script\Login\Login.js
-
 "use strict";
+cc._RFpush(module, 'bf269SHOdVBvLyamtHjegxg', 'Login');
+// Script/Login/Login.js
+
+
+var UserAccount;
+var UserPassword;
 
 cc.Class({
     "extends": cc.Component,
-
     properties: {
 
         registerLayer: {
@@ -49,6 +51,15 @@ cc.Class({
 
     onRegisterClose: function onRegisterClose() {
         this.registerLayer.active = false;
+    },
+
+    onUserAccountChanged: function onUserAccountChanged(text) {
+        UserAccount = text;
+        cc.log("UserAccount: " + UserAccount);
+    },
+    onUserPasswordChanged: function onUserPasswordChanged(text) {
+        UserPassword = text;
+        cc.log("UserPassword: " + UserPassword);
     }
 
     // called every frame, uncomment this function to activate update callback

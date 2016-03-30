@@ -1,5 +1,6 @@
+"use strict";
 cc._RFpush(module, 'a0f76uMHghGwr6/VfnCowWW', 'Tools');
-// Script\tool\Tools.js
+// Script/tool/Tools.js
 
 "use strict";
 

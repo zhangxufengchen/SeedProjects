@@ -1,5 +1,6 @@
+"use strict";
 cc._RFpush(module, '9a0496Cgv9AiKruT5YbLnJV', 'UserIcon');
-// Script\control\UserIcon.js
+// Script/control/UserIcon.js
 
 'use strict';
 

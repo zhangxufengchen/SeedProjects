@@ -1,5 +1,6 @@
+"use strict";
 cc._RFpush(module, '11761fP9y1DRqkMQyB/dQ1C', 'GameListCell');
-// Script\GameList\GameListCell.js
+// Script/GameList/GameListCell.js
 
 'use strict';
 

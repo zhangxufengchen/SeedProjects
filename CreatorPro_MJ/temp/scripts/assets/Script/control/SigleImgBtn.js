@@ -1,5 +1,6 @@
+"use strict";
 cc._RFpush(module, 'a310beKkwZApa5rKUMTDiY/', 'SigleImgBtn');
-// Script\control\SigleImgBtn.js
+// Script/control/SigleImgBtn.js
 
 "use strict";
 

@@ -1,5 +1,5 @@
 {
-  "ver": "1.1.1",
+  "ver": "1.2.0",
   "uuid": "722986b4-35ad-4d38-9ef2-e0090290b98d",
   "rawTextureUuid": "a23aad6f-2e46-4376-b1c9-a3da6f8b8ea4",
   "size": {
@@ -7,6 +7,7 @@
     "height": 1024
   },
   "type": "Texture Packer",
+  "rawTextureUrl": "db://assets/Resource/Game/mj.png",
   "subMetas": {
     "down_0000_-.png": {
       "ver": "1.0.2",

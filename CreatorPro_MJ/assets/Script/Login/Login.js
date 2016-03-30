@@ -1,6 +1,9 @@
+    
+var UserAccount;
+var UserPassword;
+
 cc.Class({
     extends: cc.Component,
-
     properties: {
         
         registerLayer:{
@@ -48,6 +51,17 @@ cc.Class({
     onRegisterClose: function()
     {
         this.registerLayer.active = false;
+    },
+    
+    onUserAccountChanged:function(text)
+    {
+        UserAccount = text;
+        cc.log("UserAccount: " + UserAccount);
+    },
+    onUserPasswordChanged:function(text)
+    {
+        UserPassword = text;
+        cc.log("UserPassword: " + UserPassword);
     }
 
 

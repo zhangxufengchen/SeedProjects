@@ -1,5 +1,3 @@
-'use strict';
-
 cc.Class({
     'extends': cc.Component,
 
@@ -27,7 +25,7 @@ cc.Class({
         this.audioManager = this.audioManager.getComponent('AudioManager');
         this.audioManager.playMusic();
 
-        for (i = 0; i < 4; ++i) {
+        for (var i = 0; i < 4; ++i) {
             var newCell = cc.instantiate(this.Cell_prefab);
 
             newCell.getComponent('GameListCell').GameId = i;

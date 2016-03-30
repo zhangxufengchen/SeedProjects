@@ -1,6 +1,799 @@
 {
   "__type__": "cc.SpriteAtlas",
-  "_name": "",
+  "_name": "mj.plist",
   "_objFlags": 0,
-  "_rawFiles": null
+  "_spriteFrames": {
+    "down_0000_-.png": {
+      "__uuid__": "d79c7cf0-e5c3-4649-a681-3d1957e1829a"
+    },
+    "down_0001_-.png": {
+      "__uuid__": "ada5cdf6-12c3-4744-977f-c80639cdcfac"
+    },
+    "down_0002_-.png": {
+      "__uuid__": "7e84cfdc-72ab-4caa-bfbc-0766cd20e9ef"
+    },
+    "down_0003_-.png": {
+      "__uuid__": "6a2e2fe8-fbbb-42e0-a164-5c41930b367b"
+    },
+    "down_0004_-.png": {
+      "__uuid__": "c7a72fc7-26c7-4792-ba6d-ae4621ddf51a"
+    },
+    "down_0005_-.png": {
+      "__uuid__": "2680b8a6-536c-4afa-9566-492af8054766"
+    },
+    "down_0006_-.png": {
+      "__uuid__": "722c2468-205e-4bb3-b2b4-40ab9a3de946"
+    },
+    "down_0007_-.png": {
+      "__uuid__": "d0493b5d-1069-4c44-b341-2ed82fa9b58a"
+    },
+    "down_0008_-.png": {
+      "__uuid__": "0ef93f53-2d66-4b25-b3c4-41384eb12cfc"
+    },
+    "down_0009_-.png": {
+      "__uuid__": "17086172-74a5-4ef1-a421-7b8719352b1b"
+    },
+    "down_0010_-.png": {
+      "__uuid__": "f3e9c093-9ec2-4903-8636-a4f3ff448f89"
+    },
+    "down_0011_-.png": {
+      "__uuid__": "7ddb7978-307d-46ff-80d4-18931e6fb20a"
+    },
+    "down_0012_-.png": {
+      "__uuid__": "2debf46c-2304-498b-85e7-57246293d78d"
+    },
+    "down_0013_-.png": {
+      "__uuid__": "831561c6-dfd5-43ea-9934-7d01661b4812"
+    },
+    "down_0014_-.png": {
+      "__uuid__": "82ba598b-c6ae-453b-ab78-fc7b7af6963e"
+    },
+    "down_0015_-.png": {
+      "__uuid__": "f7fb900a-58d3-48fb-babd-377702b4b688"
+    },
+    "down_0016_-.png": {
+      "__uuid__": "905f00a3-9b97-4c2f-bb94-e049f86b590b"
+    },
+    "down_0017_-.png": {
+      "__uuid__": "7a1c914a-f28a-4db3-922d-59fb03059a87"
+    },
+    "down_0018_-.png": {
+      "__uuid__": "ccd752a5-7f45-4a9a-926a-c7505617064a"
+    },
+    "down_0019_-.png": {
+      "__uuid__": "882ecd88-f2a2-43ea-810f-0c55d447a813"
+    },
+    "down_0020_-.png": {
+      "__uuid__": "b3be9679-ef0f-4c47-9a64-fb2927ec9fbf"
+    },
+    "down_0021_-.png": {
+      "__uuid__": "be04dedb-2557-4b62-9a90-17c6923adf82"
+    },
+    "down_0022_-.png": {
+      "__uuid__": "9877516c-62ae-4fd4-a8e9-be2846b830b0"
+    },
+    "down_0023_-.png": {
+      "__uuid__": "8478d5df-1716-4e9b-ab43-b8b859e3fad9"
+    },
+    "down_0024_-.png": {
+      "__uuid__": "88753d38-0735-4e14-acf2-3d4ff531c3bf"
+    },
+    "down_0025_-.png": {
+      "__uuid__": "19d696cd-6ffc-458f-8c72-553f922fec9b"
+    },
+    "down_0026_-.png": {
+      "__uuid__": "5ce3d498-911b-4dcd-ba5e-c1dad78999fd"
+    },
+    "down_0027_-.png": {
+      "__uuid__": "9eaeec09-8fcc-4d11-a7b9-11b26354072e"
+    },
+    "down_0028_-.png": {
+      "__uuid__": "0db5ffe1-efc1-4be2-a861-8695cec6d121"
+    },
+    "down_0029_-.png": {
+      "__uuid__": "4ca1f1d6-5158-4b4a-b624-3c47f86b6018"
+    },
+    "down_0030_-.png": {
+      "__uuid__": "25ddd9cc-14c1-4261-b3ed-577a95b55476"
+    },
+    "down_0031_-.png": {
+      "__uuid__": "57d0c0f1-1dca-4d81-abab-1844e6f0d1f5"
+    },
+    "down_0032_-.png": {
+      "__uuid__": "088f89d8-2cb2-4ec4-bb24-b61d35a543be"
+    },
+    "down_0033_-.png": {
+      "__uuid__": "75a7f61a-2edc-4c0e-948d-9358a8b30745"
+    },
+    "down_0034_-.png": {
+      "__uuid__": "a17f60ab-614e-4df6-88fd-5bab3ec3d8c6"
+    },
+    "down_0035_-.png": {
+      "__uuid__": "9683f4af-a9c6-4c89-8bd5-90921336b77f"
+    },
+    "down_0036_-.png": {
+      "__uuid__": "4156f412-2a0f-4bff-a208-10a540cd4c93"
+    },
+    "down_0037_-.png": {
+      "__uuid__": "42341140-da02-4455-a5e8-b8ea8857ac42"
+    },
+    "down_0038_-.png": {
+      "__uuid__": "28ea7bee-c8bb-412d-9e09-aa123c077b8d"
+    },
+    "down_0039_-.png": {
+      "__uuid__": "c1bcfc71-3dff-4409-be6a-b44ba91de0c1"
+    },
+    "down_0040_-.png": {
+      "__uuid__": "647613a3-bfdf-4079-9f78-dd61ee32639c"
+    },
+    "down_0041_-.png": {
+      "__uuid__": "6107765f-84b3-4a73-8de5-2fb0d8c108ae"
+    },
+    "down_0042_-.png": {
+      "__uuid__": "f182e827-32b2-41c5-9f80-48957c7b4a0b"
+    },
+    "down_0043_-.png": {
+      "__uuid__": "46aede3e-5e20-4fba-9d88-ddede78444d6"
+    },
+    "left_0000_-.png": {
+      "__uuid__": "bdb2c869-f622-4e31-ba1b-5ea5031320d0"
+    },
+    "left_0001_-.png": {
+      "__uuid__": "bb12a3e0-2930-4823-a2db-fd7f5c368536"
+    },
+    "left_0002_-.png": {
+      "__uuid__": "7d875cee-ef00-47a2-b51e-9501844ebd98"
+    },
+    "left_0003_-.png": {
+      "__uuid__": "5285a54f-ecfa-4b80-80f6-e3bc8b73015f"
+    },
+    "left_0004_-.png": {
+      "__uuid__": "c81e654c-3661-498b-8350-e27f91ec7fe5"
+    },
+    "left_0005_-.png": {
+      "__uuid__": "e3c4c079-8df6-430f-a5de-896b01c72baf"
+    },
+    "left_0006_-.png": {
+      "__uuid__": "25ad0f24-6f44-43c8-b3e3-f5d18506786c"
+    },
+    "left_0007_-.png": {
+      "__uuid__": "b7fc53a5-bc9a-41d9-aac5-e9e8030af405"
+    },
+    "left_0008_-.png": {
+      "__uuid__": "bc3aec86-c2dc-4b83-b3cc-d875f221ddd6"
+    },
+    "left_0009_-.png": {
+      "__uuid__": "bb7f61e1-d9a6-4a98-8ec7-cd20dce21f50"
+    },
+    "left_0010_-.png": {
+      "__uuid__": "853c58f0-8622-4a6b-9aab-cb3523e1e6bc"
+    },
+    "left_0011_-.png": {
+      "__uuid__": "df67a01d-7789-48ae-a78c-366bcad34505"
+    },
+    "left_0012_-.png": {
+      "__uuid__": "0dcd253f-cde1-4941-8060-9d7b202e701d"
+    },
+    "left_0013_-.png": {
+      "__uuid__": "b4212268-d92c-4512-8488-6ca4f0228d33"
+    },
+    "left_0014_-.png": {
+      "__uuid__": "2aa1d2e1-efcd-4a82-b041-ac439b7fc93f"
+    },
+    "left_0015_-.png": {
+      "__uuid__": "c5abfc70-c88b-4485-ad35-2d980fbd27d6"
+    },
+    "left_0016_-.png": {
+      "__uuid__": "92199fd8-8807-4cc9-b5a5-601bfc969d3a"
+    },
+    "left_0017_-.png": {
+      "__uuid__": "8d0afe24-01f9-4469-9cb7-65dd32815bdc"
+    },
+    "left_0018_-.png": {
+      "__uuid__": "f18402ce-ba5f-4b4d-882e-872588b1531f"
+    },
+    "left_0019_-.png": {
+      "__uuid__": "e36afd31-40eb-44b1-8bb9-d837b7ce993f"
+    },
+    "left_0020_-.png": {
+      "__uuid__": "b9211b39-7d59-49fd-8b17-73a63ef00b3d"
+    },
+    "left_0021_-.png": {
+      "__uuid__": "9176856a-feb8-4133-9003-dc54eba9d2ac"
+    },
+    "left_0022_-.png": {
+      "__uuid__": "1de394c5-bed6-438d-8b74-656da6413ac6"
+    },
+    "left_0023_-.png": {
+      "__uuid__": "8c8e0427-745c-4112-bd7b-aaa8ec5e11fa"
+    },
+    "left_0024_-.png": {
+      "__uuid__": "bdf4b447-10e7-444c-9e4f-32a3260a6ee0"
+    },
+    "left_0025_-.png": {
+      "__uuid__": "80b629b0-39e0-4c25-936e-ff65876ed997"
+    },
+    "left_0026_-.png": {
+      "__uuid__": "9b834db1-ec68-4c66-8913-4f8be1193e92"
+    },
+    "left_0027_-.png": {
+      "__uuid__": "0638f7f0-0f69-4d3c-81a6-41a06c3089b2"
+    },
+    "left_0028_-.png": {
+      "__uuid__": "5dfaf458-751b-4621-b8a0-2df47546ad42"
+    },
+    "left_0029_-.png": {
+      "__uuid__": "5e108337-4dbe-42be-9066-e144a9962053"
+    },
+    "left_0030_-.png": {
+      "__uuid__": "5015b38a-cd12-48a1-9b12-185aaea7d272"
+    },
+    "left_0031_-.png": {
+      "__uuid__": "94b005db-4a0b-4c99-b6a4-09b3440f298e"
+    },
+    "left_0032_-.png": {
+      "__uuid__": "f2dfdf7c-de02-4ec8-a28b-9e8cd04c2bd7"
+    },
+    "left_0033_-.png": {
+      "__uuid__": "f0cf295d-c474-4078-b099-01e30e4baaf1"
+    },
+    "left_0034_-.png": {
+      "__uuid__": "70ff7f91-46ef-4e81-8d13-0b700ff63b4a"
+    },
+    "left_0035_-.png": {
+      "__uuid__": "52672d26-6f0b-42c9-905a-dcc7c3450940"
+    },
+    "left_0036_-.png": {
+      "__uuid__": "3580da30-178d-4aab-8116-3ce3c034e73a"
+    },
+    "left_0037_-.png": {
+      "__uuid__": "96afc6b7-4782-482b-abc2-7f7b201d7ad6"
+    },
+    "left_0038_-.png": {
+      "__uuid__": "a85f65a6-56cc-4758-bb65-0954772830aa"
+    },
+    "left_0039_-.png": {
+      "__uuid__": "eac1be57-cd3f-46d6-b8e8-d78235fd623d"
+    },
+    "left_0040_-.png": {
+      "__uuid__": "df2d1b50-4dcf-4dde-b570-bfdded6447bf"
+    },
+    "left_0041_-.png": {
+      "__uuid__": "a5f483d7-9b60-49a0-9459-68153334f5ce"
+    },
+    "left_0042_-.png": {
+      "__uuid__": "734b29f1-9dbf-4d0e-b411-ef102b09b3a4"
+    },
+    "left_0043_-.png": {
+      "__uuid__": "c4fc92bb-8ff1-4bb2-bc12-54b6e0c21381"
+    },
+    "own_down_0000_-.png": {
+      "__uuid__": "29f853da-be46-4ca5-ab6f-f83c4b3f0130"
+    },
+    "own_down_0001_-.png": {
+      "__uuid__": "e56434f7-a155-4c7d-b3e7-2a7ef80296d4"
+    },
+    "own_down_0002_-.png": {
+      "__uuid__": "903a297f-bd06-4a14-8e34-28e20b72b722"
+    },
+    "own_down_0003_-.png": {
+      "__uuid__": "2814da32-bd04-497f-a44c-7b4e30ccda7d"
+    },
+    "own_down_0004_-.png": {
+      "__uuid__": "0feb43c5-554c-4937-b6a3-63bb7596c8a5"
+    },
+    "own_down_0005_-.png": {
+      "__uuid__": "32e27d1f-613b-42e3-a26a-e521b1e3f06c"
+    },
+    "own_down_0006_-.png": {
+      "__uuid__": "9b2f7378-0437-4251-bfeb-3fe51f2675d1"
+    },
+    "own_down_0007_-.png": {
+      "__uuid__": "8f97573d-28af-425f-a6ac-bc6f24adeb84"
+    },
+    "own_down_0008_-.png": {
+      "__uuid__": "4ca5b77d-d7ed-4333-adda-8014df6c16dd"
+    },
+    "own_down_0009_-.png": {
+      "__uuid__": "ae921709-c846-456e-86da-46122343891c"
+    },
+    "own_down_0010_-.png": {
+      "__uuid__": "c4b4e5bd-438a-4f3e-b3cb-502d29708069"
+    },
+    "own_down_0011_-.png": {
+      "__uuid__": "95837761-6207-4888-ac71-008c7649754d"
+    },
+    "own_down_0012_-.png": {
+      "__uuid__": "61c1ca6c-390a-4b10-b7ae-886b9384de68"
+    },
+    "own_down_0013_-.png": {
+      "__uuid__": "b572f9e0-0627-47dd-aba2-465aa6c91c2b"
+    },
+    "own_down_0014_-.png": {
+      "__uuid__": "9070de46-d09c-4033-8f90-ff985c2dab85"
+    },
+    "own_down_0015_-.png": {
+      "__uuid__": "6cac915b-e291-4423-b556-c9a3c8cc0460"
+    },
+    "own_down_0016_-.png": {
+      "__uuid__": "15afc786-2113-4c6d-8dcb-7ce85fbd85eb"
+    },
+    "own_down_0017_-.png": {
+      "__uuid__": "a58e1bd1-80bc-457c-b7a0-ed4aa45f0f22"
+    },
+    "own_down_0018_-.png": {
+      "__uuid__": "11d50fd1-ec29-40f7-bd69-e3946be0b74f"
+    },
+    "own_down_0019_-.png": {
+      "__uuid__": "ac779873-2454-4e51-8606-71fc2d22e774"
+    },
+    "own_down_0020_-.png": {
+      "__uuid__": "ff57b5aa-de9a-4ff7-b196-a811f5b566ca"
+    },
+    "own_down_0021_-.png": {
+      "__uuid__": "7ec6afe0-52b0-409c-9ae1-10e6a08b0866"
+    },
+    "own_down_0022_-.png": {
+      "__uuid__": "e3c3bb46-de56-4ca2-8eef-dd653e52a55f"
+    },
+    "own_down_0023_-.png": {
+      "__uuid__": "9022ec52-755b-4843-bc66-e07f73fce144"
+    },
+    "own_down_0024_-.png": {
+      "__uuid__": "fa74dc41-f228-4b87-bf2d-f8eaf015d5eb"
+    },
+    "own_down_0025_-.png": {
+      "__uuid__": "f6182ad4-46a9-4de6-8adb-34425625e0e9"
+    },
+    "own_down_0026_-.png": {
+      "__uuid__": "422c76d0-225c-4b17-a902-14228a75ef22"
+    },
+    "own_down_0027_-.png": {
+      "__uuid__": "3ed71266-bb6a-48d1-9e70-e41f83189045"
+    },
+    "own_down_0028_-.png": {
+      "__uuid__": "fafca64c-5d70-4766-99f4-38a663bc40d8"
+    },
+    "own_down_0029_-.png": {
+      "__uuid__": "b97e3a99-2674-4aee-924b-b397e72b8162"
+    },
+    "own_down_0030_-.png": {
+      "__uuid__": "181c2ac3-9c1e-4573-955d-97cda15d8fc0"
+    },
+    "own_down_0031_-.png": {
+      "__uuid__": "f72b0110-202d-485b-ad9a-17bba9f407c7"
+    },
+    "own_down_0032_-.png": {
+      "__uuid__": "b5c07aa2-4064-4d63-b58a-09180a0727e5"
+    },
+    "own_down_0033_-.png": {
+      "__uuid__": "7dd15e27-3d40-4fdd-b11f-868a567f7f66"
+    },
+    "own_down_0034_-.png": {
+      "__uuid__": "deabaeea-e2a5-4686-a58a-4482400b59b6"
+    },
+    "own_down_0035_-.png": {
+      "__uuid__": "76eb14d4-bef9-42ca-80d3-b465a1662023"
+    },
+    "own_down_0036_-.png": {
+      "__uuid__": "7c1fbbf3-c1e3-43e6-ab0b-57eadd93a9ba"
+    },
+    "own_down_0037_-.png": {
+      "__uuid__": "5efc16ab-f6b5-4eba-8290-95c7b7b16ab3"
+    },
+    "own_down_0038_-.png": {
+      "__uuid__": "6f25744a-c72e-44e7-bd34-d3a4e80b45c4"
+    },
+    "own_down_0039_-.png": {
+      "__uuid__": "e87ffe60-dffc-4357-9d6f-b91d0aa67773"
+    },
+    "own_down_0040_-.png": {
+      "__uuid__": "10f94f2f-3985-460d-a040-38b507e7d531"
+    },
+    "own_down_0041_-.png": {
+      "__uuid__": "77d661d9-2169-43fb-8427-575272b08b70"
+    },
+    "own_down_0042_-.png": {
+      "__uuid__": "0c956174-7445-44a6-a810-7c92167c2007"
+    },
+    "own_down_0043_-.png": {
+      "__uuid__": "6b4e0df8-e29f-4b25-aedf-f867ce12e486"
+    },
+    "own_up_0000_-.png": {
+      "__uuid__": "461d652a-6185-47e0-8c55-eba16907b612"
+    },
+    "own_up_0001_-.png": {
+      "__uuid__": "2f4ac0fa-75e1-4543-9572-e2738b68b8a9"
+    },
+    "own_up_0002_-.png": {
+      "__uuid__": "ca51f15c-d366-4f04-ae0a-a4265f7ba373"
+    },
+    "own_up_0003_-.png": {
+      "__uuid__": "fd0fab4c-5d24-4ad3-aa43-e31abd40abd9"
+    },
+    "own_up_0004_-.png": {
+      "__uuid__": "6803df50-2d0a-44f5-a17e-97e1866b7a7c"
+    },
+    "own_up_0005_-.png": {
+      "__uuid__": "40c17c16-e77f-47b3-82d2-3114b8d97244"
+    },
+    "own_up_0006_-.png": {
+      "__uuid__": "5b438a9a-244b-4036-8337-442c5eb91cac"
+    },
+    "own_up_0007_-.png": {
+      "__uuid__": "020735a8-6368-4ff4-8f84-988d890979aa"
+    },
+    "own_up_0008_-.png": {
+      "__uuid__": "f843f27c-1966-420a-9816-7c9bf0fd46ba"
+    },
+    "own_up_0009_-.png": {
+      "__uuid__": "2e34da58-1dd6-4bfc-943f-6b073cb28fb7"
+    },
+    "own_up_0010_-.png": {
+      "__uuid__": "55fe7cfb-6785-4729-b736-b2a250acfa9f"
+    },
+    "own_up_0011_-.png": {
+      "__uuid__": "adcb2e46-283b-47e7-8d36-d014f4b62411"
+    },
+    "own_up_0012_-.png": {
+      "__uuid__": "b568323b-7129-4320-aaca-33d8dabcc5e0"
+    },
+    "own_up_0013_-.png": {
+      "__uuid__": "988720ae-e087-46cf-9d07-5b66cba13616"
+    },
+    "own_up_0014_-.png": {
+      "__uuid__": "6a905d6b-be36-4296-a5a5-45854ec5ef4a"
+    },
+    "own_up_0015_-.png": {
+      "__uuid__": "4a2a5cb1-a767-4572-9a8b-b15a6202757d"
+    },
+    "own_up_0016_-.png": {
+      "__uuid__": "ce6839ff-d6dd-4163-a497-a516a70923f4"
+    },
+    "own_up_0017_-.png": {
+      "__uuid__": "2e3b447f-502b-428a-b2e5-1f65f0396413"
+    },
+    "own_up_0018_-.png": {
+      "__uuid__": "ba44cac8-f9f0-4188-a50c-6bbbdca16def"
+    },
+    "own_up_0019_-.png": {
+      "__uuid__": "822a65e2-a0ea-4427-9a53-81b5846e3b4e"
+    },
+    "own_up_0020_-.png": {
+      "__uuid__": "4dc349f1-eca8-43b8-b776-ebc5991ad77f"
+    },
+    "own_up_0021_-.png": {
+      "__uuid__": "dd3bd5ee-a6ec-4100-9a91-c3f3e8f7fa0f"
+    },
+    "own_up_0022_-.png": {
+      "__uuid__": "6e807c7c-f618-4d69-99e5-95d8952f18eb"
+    },
+    "own_up_0023_-.png": {
+      "__uuid__": "7dd5e5cf-1cfb-4333-a936-5c5d38239553"
+    },
+    "own_up_0024_-.png": {
+      "__uuid__": "f210b5c1-2027-44d0-af15-8281d96a4b6b"
+    },
+    "own_up_0025_-.png": {
+      "__uuid__": "3cefdbbf-e11b-4e6f-bd86-ac5ebf6e9dd4"
+    },
+    "own_up_0026_-.png": {
+      "__uuid__": "10288163-09ad-4c41-8a1f-c8f6f6d612cc"
+    },
+    "own_up_0027_-.png": {
+      "__uuid__": "8c9ca0df-ae6e-440e-ad9d-7efb643a3c88"
+    },
+    "own_up_0028_-.png": {
+      "__uuid__": "f68bf836-d6e8-4b94-b92e-d9ad39bdf831"
+    },
+    "own_up_0029_-.png": {
+      "__uuid__": "bcc66478-d9ad-4720-9cce-c1398dabee9f"
+    },
+    "own_up_0030_-.png": {
+      "__uuid__": "192127dc-0704-416e-8ba9-7f9948bc0acd"
+    },
+    "own_up_0031_-.png": {
+      "__uuid__": "2b198600-d9ec-4d15-b343-dba086c52606"
+    },
+    "own_up_0032_-.png": {
+      "__uuid__": "de899534-7adb-4757-8ff2-19c9b582df56"
+    },
+    "own_up_0033_-.png": {
+      "__uuid__": "35f52585-78ac-4c6b-8ac7-493ee4d806d7"
+    },
+    "own_up_0034_-.png": {
+      "__uuid__": "13a6b619-2448-4c0b-b334-9b10dd5bba87"
+    },
+    "own_up_0035_-.png": {
+      "__uuid__": "3b1b7d32-058f-4d05-a988-7ac7be53cf13"
+    },
+    "own_up_0036_-.png": {
+      "__uuid__": "e185d353-86a8-4dbc-bbca-85d9839be608"
+    },
+    "own_up_0037_-.png": {
+      "__uuid__": "f3eaacf2-6465-4a50-8d5a-6f6507adcd05"
+    },
+    "own_up_0038_-.png": {
+      "__uuid__": "f31afea7-461f-4ca4-aa42-ff5e9e23e4b8"
+    },
+    "own_up_0039_-.png": {
+      "__uuid__": "8da11ae4-eca6-4952-ad91-9ff45e88e3ac"
+    },
+    "own_up_0040_-.png": {
+      "__uuid__": "df20d69e-6438-44f3-8f73-6ae676f58a40"
+    },
+    "own_up_0041_-.png": {
+      "__uuid__": "954eb0b6-9495-41b1-88c6-f0efa80dece9"
+    },
+    "own_up_0042_-.png": {
+      "__uuid__": "9e896a4d-8259-477f-b323-8e3429a1348c"
+    },
+    "own_up_0043_-.png": {
+      "__uuid__": "183ecd84-c152-4844-b0a4-b9945e866190"
+    },
+    "right_0000_-.png": {
+      "__uuid__": "d014926a-ec93-48db-8977-21a4a26aa9c8"
+    },
+    "right_0001_-.png": {
+      "__uuid__": "e01fc59b-074f-4a03-9a6b-876efe081169"
+    },
+    "right_0002_-.png": {
+      "__uuid__": "05cdb6e9-1fec-4b4d-9dbc-e6c357170a26"
+    },
+    "right_0003_-.png": {
+      "__uuid__": "f1ec314a-03cc-4551-a3e2-8f793032df6b"
+    },
+    "right_0004_-.png": {
+      "__uuid__": "ad154375-4550-47d2-87c8-6419a65cdf7a"
+    },
+    "right_0005_-.png": {
+      "__uuid__": "34d1cecc-9742-4176-b2b5-2635d2e5e15a"
+    },
+    "right_0006_-.png": {
+      "__uuid__": "c4c94da1-0883-4676-99b0-d4ed2b949449"
+    },
+    "right_0007_-.png": {
+      "__uuid__": "f9580657-b6e1-421c-9625-2de61964433d"
+    },
+    "right_0008_-.png": {
+      "__uuid__": "99331de4-3872-4003-9376-228b395e8515"
+    },
+    "right_0009_-.png": {
+      "__uuid__": "fcf76dc3-82ab-41cc-b504-b1f67dea629e"
+    },
+    "right_0010_-.png": {
+      "__uuid__": "a47ffa1d-8a1e-4f68-9b6e-d1dfcd9eb06e"
+    },
+    "right_0011_-.png": {
+      "__uuid__": "79b033ed-35cb-4dfc-898c-371f920c10b9"
+    },
+    "right_0012_-.png": {
+      "__uuid__": "059776ed-24c8-4d7f-b4ab-ca04fa37e86d"
+    },
+    "right_0013_-.png": {
+      "__uuid__": "8af601ab-2dde-4ade-87fb-1758b3972461"
+    },
+    "right_0014_-.png": {
+      "__uuid__": "4e76b4ad-91bb-41f6-b5c1-17918b7894e5"
+    },
+    "right_0015_-.png": {
+      "__uuid__": "000e8245-0002-45a9-a6d9-451176c02678"
+    },
+    "right_0016_-.png": {
+      "__uuid__": "50cb1409-61d0-467f-b97a-d33f2dc1c841"
+    },
+    "right_0017_-.png": {
+      "__uuid__": "8bd07f05-fb25-4b28-9739-fd3c5ca4e66d"
+    },
+    "right_0018_-.png": {
+      "__uuid__": "384a9b2d-af4d-4618-a576-803c7fa5d505"
+    },
+    "right_0019_-.png": {
+      "__uuid__": "04942bd0-ff52-4436-96ce-ddedd715d6b1"
+    },
+    "right_0020_-.png": {
+      "__uuid__": "7059642f-42bb-45e5-8520-6f732f90f132"
+    },
+    "right_0021_-.png": {
+      "__uuid__": "9fa550e9-8caf-432e-991d-ba4008b1afb8"
+    },
+    "right_0022_-.png": {
+      "__uuid__": "1e2d0047-2bc5-4fb4-9628-7a5e3f402a26"
+    },
+    "right_0023_-.png": {
+      "__uuid__": "74e00afc-d173-4b12-968f-91da9b6b7995"
+    },
+    "right_0024_-.png": {
+      "__uuid__": "6ea31f8c-d124-41d8-aa05-1a0dbf21b8f8"
+    },
+    "right_0025_-.png": {
+      "__uuid__": "ad4aaa32-fe03-4985-8ead-ee7d3ef7fc54"
+    },
+    "right_0026_-.png": {
+      "__uuid__": "30aaed8e-2859-474f-a971-f43a5cc6a322"
+    },
+    "right_0027_-.png": {
+      "__uuid__": "b55b4284-22dd-43e9-ad06-ecb5b389c0f3"
+    },
+    "right_0028_-.png": {
+      "__uuid__": "2f2e8c6e-f4ae-470b-a11c-0cfa3a7c3dbc"
+    },
+    "right_0029_-.png": {
+      "__uuid__": "a8a300d5-fbe5-49b9-84e0-f7049fbd3fdf"
+    },
+    "right_0030_-.png": {
+      "__uuid__": "b9b46f28-d89a-4df7-8a68-9527f3d70204"
+    },
+    "right_0031_-.png": {
+      "__uuid__": "a37dc04f-acb1-4ac5-abe6-1c1a1c166516"
+    },
+    "right_0032_-.png": {
+      "__uuid__": "77539544-4838-4f3c-9dc4-10c924146ed5"
+    },
+    "right_0033_-.png": {
+      "__uuid__": "adf19400-517b-40f2-8dac-88fe655b19d1"
+    },
+    "right_0034_-.png": {
+      "__uuid__": "c3adc4f4-8928-4efd-b612-fa3e04ef3bb1"
+    },
+    "right_0035_-.png": {
+      "__uuid__": "e952ad5a-6598-4875-b280-42f9790a9246"
+    },
+    "right_0036_-.png": {
+      "__uuid__": "f2a34f83-2a64-4c19-b511-a831be4b2a4d"
+    },
+    "right_0037_-.png": {
+      "__uuid__": "ebfab5b1-1c45-40ef-87a6-e3e2db2f4ad1"
+    },
+    "right_0038_-.png": {
+      "__uuid__": "7b2e3768-725b-460b-babb-e0b11fed55b1"
+    },
+    "right_0039_-.png": {
+      "__uuid__": "c01b75a1-83e7-4f8f-a2b4-ddbeca9e5198"
+    },
+    "right_0040_-.png": {
+      "__uuid__": "9b2650cd-265f-4742-9d7c-fe1cd18760fb"
+    },
+    "right_0041_-.png": {
+      "__uuid__": "e08a394b-7d42-462d-9ce3-06167d402327"
+    },
+    "right_0042_-.png": {
+      "__uuid__": "aa431969-1b85-4209-beee-c6be83e2b11f"
+    },
+    "right_0043_-.png": {
+      "__uuid__": "1f1e8a38-7e4a-4410-ac7e-460991de7c24"
+    },
+    "up_0000_-.png": {
+      "__uuid__": "ed20d597-c24e-4f85-a580-37a79a8b6008"
+    },
+    "up_0001_-.png": {
+      "__uuid__": "732a4107-eb67-4ce6-95e7-c6577bec6b1a"
+    },
+    "up_0002_-.png": {
+      "__uuid__": "f1b020b4-3fa8-442d-a7d5-46a167f0767c"
+    },
+    "up_0003_-.png": {
+      "__uuid__": "c40212eb-01ea-490f-b88b-aa33b86c71b3"
+    },
+    "up_0004_-.png": {
+      "__uuid__": "6d66c40e-0990-4621-b85d-84767827f50d"
+    },
+    "up_0005_-.png": {
+      "__uuid__": "f2e4e11d-851d-4560-b36c-5edf1256f1c8"
+    },
+    "up_0006_-.png": {
+      "__uuid__": "b3aa017b-f8e3-4657-8261-0b966b6adb92"
+    },
+    "up_0007_-.png": {
+      "__uuid__": "9c0c6125-0428-45be-81b0-4e75bb25cfef"
+    },
+    "up_0008_-.png": {
+      "__uuid__": "680d37c5-f114-4b09-a92e-dcb8e1242c99"
+    },
+    "up_0009_-.png": {
+      "__uuid__": "77cac30b-9c0f-4e89-b299-805b50fef276"
+    },
+    "up_0010_-.png": {
+      "__uuid__": "3aa52861-3ff4-49cf-8bfb-d8264ab103fa"
+    },
+    "up_0011_-.png": {
+      "__uuid__": "f7e4f949-513d-4623-a237-6e97c9f91b2f"
+    },
+    "up_0012_-.png": {
+      "__uuid__": "aea243c9-4526-4fd9-92de-7001f84a087a"
+    },
+    "up_0013_-.png": {
+      "__uuid__": "fdbcd59f-0ffe-480d-820e-495ce3bcf8a0"
+    },
+    "up_0014_-.png": {
+      "__uuid__": "6e31f313-ab90-4330-85a2-67e4a895a75b"
+    },
+    "up_0015_-.png": {
+      "__uuid__": "4d3d984a-01c9-47b6-bd23-876c288439be"
+    },
+    "up_0016_-.png": {
+      "__uuid__": "b5c85970-c96c-43d0-a91f-12f0af491d4d"
+    },
+    "up_0017_-.png": {
+      "__uuid__": "a3ba8252-6b66-4315-ab9b-dd56690ec2c6"
+    },
+    "up_0018_-.png": {
+      "__uuid__": "9950418b-e226-4cd2-a940-574dc076533f"
+    },
+    "up_0019_-.png": {
+      "__uuid__": "f1d8f1fc-d5cd-49a6-bdb6-941aa1b78811"
+    },
+    "up_0020_-.png": {
+      "__uuid__": "1e48c0bf-e4db-42e9-b299-fce18c717842"
+    },
+    "up_0021_-.png": {
+      "__uuid__": "d7a8bc9d-3c70-4141-9a27-b3c6ba37d064"
+    },
+    "up_0022_-.png": {
+      "__uuid__": "c5910a68-3cb9-488c-960b-0f7844a3f8d6"
+    },
+    "up_0023_-.png": {
+      "__uuid__": "913d974f-922c-46b8-9d8a-79cc89439e24"
+    },
+    "up_0024_-.png": {
+      "__uuid__": "62112528-4b67-4967-9197-09cebdf4781a"
+    },
+    "up_0025_-.png": {
+      "__uuid__": "04073f68-b3aa-4a0c-a0b7-5a07aa9612c8"
+    },
+    "up_0026_-.png": {
+      "__uuid__": "2bd3c1e5-a021-48b5-bf41-c53f4f7ab676"
+    },
+    "up_0027_-.png": {
+      "__uuid__": "7dbfbfd7-431f-4a0e-80ee-476b22e48f86"
+    },
+    "up_0028_-.png": {
+      "__uuid__": "7b38f508-24db-4bfc-a041-b0ec3e660819"
+    },
+    "up_0029_-.png": {
+      "__uuid__": "73f48e32-d72c-4793-94de-2ac57f6fbc5c"
+    },
+    "up_0030_-.png": {
+      "__uuid__": "5da80677-0a9d-47e2-9368-a09061b8f322"
+    },
+    "up_0031_-.png": {
+      "__uuid__": "7e6a349e-b0f5-453b-8201-ccecaa2e2698"
+    },
+    "up_0032_-.png": {
+      "__uuid__": "70c47905-42ac-4a99-a135-2db9750aa909"
+    },
+    "up_0033_-.png": {
+      "__uuid__": "6238908f-1846-4812-a65f-ef4da0c2cbdb"
+    },
+    "up_0034_-.png": {
+      "__uuid__": "9409aa08-7e9b-4471-95ac-1ae153bc66f4"
+    },
+    "up_0035_-.png": {
+      "__uuid__": "1d4fc125-212d-4b42-aa3f-dd3aafa12acb"
+    },
+    "up_0036_-.png": {
+      "__uuid__": "68e43dd8-dc89-4ad0-94cc-a9c2f841de13"
+    },
+    "up_0037_-.png": {
+      "__uuid__": "d701f272-66d6-4395-9f50-09c96814fb00"
+    },
+    "up_0038_-.png": {
+      "__uuid__": "470c2945-a204-43ed-9f0d-905c94ee5267"
+    },
+    "up_0039_-.png": {
+      "__uuid__": "3e22b3ea-0372-46e7-8c86-852bbc2fcb50"
+    },
+    "up_0040_-.png": {
+      "__uuid__": "02a03345-bfdb-44c4-99eb-8132b62d642f"
+    },
+    "up_0041_-.png": {
+      "__uuid__": "8da4ddc2-9ee7-4f35-a03c-2e2348609fc0"
+    },
+    "up_0042_-.png": {
+      "__uuid__": "bb1fff47-036a-40de-a13d-ae1556deff21"
+    },
+    "up_0043_-.png": {
+      "__uuid__": "c1b3895b-94c7-48d4-9a81-3e993f040607"
+    }
+  }
 }

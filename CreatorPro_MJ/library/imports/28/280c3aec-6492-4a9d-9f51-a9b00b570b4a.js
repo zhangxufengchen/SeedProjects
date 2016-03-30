@@ -1,5 +1,3 @@
-'use strict';
-
 cc.Class({
     'extends': cc.Component,
 
@@ -14,7 +12,7 @@ cc.Class({
         } else {
             require('socket.io');
         }
-        var socket = io('http://localhost:3000');
+        var socket = io('ws://localhost:3000');
         socket.on('消息', function (msg) {
             console.log(msg);
         });

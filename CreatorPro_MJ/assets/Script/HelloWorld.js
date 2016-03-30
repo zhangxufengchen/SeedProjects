@@ -16,7 +16,7 @@ cc.Class({
         {
             require('socket.io');
         }
-        var socket  = io('http://localhost:3000');
+        var socket  = io('ws://localhost:3000');
         socket.on('消息', function(msg){
             console.log(msg);
         });
