@@ -31,3 +31,5 @@ proguard/
 # Android Studio captures folder
 captures/
 CreatorPro_MJ/temp/
+CreatorPro_MJ/local/
+CreatorPro_MJ/library/
