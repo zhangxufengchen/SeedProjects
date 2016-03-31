@@ -3,7 +3,6 @@
     "__type__": "cc.Prefab",
     "_name": "",
     "_objFlags": 0,
-    "_rawFiles": null,
     "data": {
       "__id__": 1
     }
@@ -29,8 +28,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 0,
-      "height": 0
+      "width": 51,
+      "height": 78
     },
     "_children": [],
     "_rotationX": 0,
@@ -39,16 +38,16 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 0,
+      "x": -274.5,
       "y": 0
     },
     "_skewX": 0,
     "_skewY": 0,
     "_localZOrder": 0,
     "_globalZOrder": 0,
-    "_ignoreAnchorPointForPosition": false,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "",
     "_active": true,
     "_components": [
@@ -74,9 +73,19 @@
     "_spriteFrame": null,
     "_type": 0,
     "_useOriginalSize": true,
-    "_atlas": {
-      "__uuid__": "722986b4-35ad-4d38-9ef2-e0090290b98d"
-    }
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
   },
   {
     "__type__": "98d48Z0qrVEv6aaRh6QNNZa",
@@ -86,8 +95,17 @@
       "__id__": 1
     },
     "_enabled": true,
-    "CardId": 1,
-    "CardType": 1
+    "ResPath": "Game/mj.plist/",
+    "CardIndex": 1,
+    "CardShowType": 0,
+    "CardType": 2,
+    "CardFrameMidName": [
+      "own_down",
+      "own_up",
+      "left",
+      "right",
+      "up"
+    ]
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -95,6 +113,6 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "f0035dQVxVAcKiymggx7THt"
+    "fileId": "b02b8I0rKxPe4Ydak90gB/y"
   }
 ]

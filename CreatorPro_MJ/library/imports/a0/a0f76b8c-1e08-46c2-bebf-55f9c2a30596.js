@@ -1,7 +1,5 @@
-"use strict";
-
 cc.Class({
-    "extends": cc.Component,
+    'extends': cc.Component,
 
     properties: {},
 
@@ -23,5 +21,18 @@ module.exports = {
         var Range = Max - Min;
         var Rand = Math.random();
         return Min + Math.round(Rand * Range);
+    },
+    loadRes: function loadRes(pathAndName, callback) {
+        cc.loader.loadRes(pathAndName, function (err, spriteFrame) {
+            if (err) {
+                console.log('cc.loader.loadRes error : Path : pathAndName : =' + err);
+            } else {
+                callback(spriteFrame);
+            }
+        });
+    },
+    fix: function fix(num, length) {
+        return ('' + num).length < length ? (new Array(length + 1).join('0') + num).slice(-length) : '' + num;
     }
+
 };

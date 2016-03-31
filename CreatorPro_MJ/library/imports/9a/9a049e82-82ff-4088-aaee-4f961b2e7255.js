@@ -1,4 +1,4 @@
-'use strict';
+
 
 cc.Class({
     'extends': cc.Component,

@@ -3,7 +3,6 @@
     "__type__": "cc.Prefab",
     "_name": "",
     "_objFlags": 0,
-    "_rawFiles": null,
     "data": {
       "__id__": 1
     }
@@ -50,9 +49,9 @@
     "_skewY": 0,
     "_localZOrder": 0,
     "_globalZOrder": 0,
-    "_ignoreAnchorPointForPosition": false,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "",
     "_active": true,
     "_components": [
@@ -104,15 +103,15 @@
     "_position": {
       "__type__": "cc.Vec2",
       "x": -26,
-      "y": -110
+      "y": -92
     },
     "_skewX": 0,
     "_skewY": 0,
     "_localZOrder": 0,
     "_globalZOrder": 0,
-    "_ignoreAnchorPointForPosition": false,
     "_tag": -1,
     "_opacityModifyRGB": false,
+    "_reorderChildDirty": false,
     "_id": "",
     "_active": true,
     "_components": [
@@ -151,7 +150,7 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "bc98fJYDnxDoaYXwlBRc8vr"
+    "fileId": "97c27YFfShJeaQ2kTi+vTz8"
   },
   {
     "__type__": "cc.Sprite",
@@ -166,6 +165,18 @@
     },
     "_type": 0,
     "_useOriginalSize": true,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
     "_atlas": null
   },
   {
@@ -266,6 +277,6 @@
       "__id__": 1
     },
     "asset": null,
-    "fileId": "7a890nf3khMXJsQxHuuKKXf"
+    "fileId": "0768fSTriJMUp6XnQ/iEzp7"
   }
 ]
