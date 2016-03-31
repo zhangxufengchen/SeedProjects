@@ -7,7 +7,7 @@
     "height": 1024
   },
   "type": "Texture Packer",
-  "rawTextureUrl": "db://assets/Resource/Game/mj.png",
+  "rawTextureUrl": "db://assets/resources/Game/mj.png",
   "subMetas": {
     "down_0000_-.png": {
       "ver": "1.0.2",

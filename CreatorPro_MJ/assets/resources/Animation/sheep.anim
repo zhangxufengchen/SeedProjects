@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sheep",
+  "_objFlags": 0,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bed982cf-5ca7-451c-88d4-c99214de54a5"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "d0539c48-c5c7-4201-ac4f-7bdfe20a2cfe"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "35aafb58-7162-4dc6-becc-2183e902c3bb"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "8fb683be-d40e-4dab-ac03-a2830cad9751"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

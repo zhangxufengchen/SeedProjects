@@ -19,7 +19,7 @@ let tools = require('Tools');
 
 cc.Class({
     extends: cc.Component,
-
+    
     properties: {
         ResPath:'',
         CardIndex:0,    //牌型序列

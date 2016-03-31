@@ -1,17 +1,17 @@
 {
   "windows": {
     "main": {
-      "x": -8,
-      "y": -8,
-      "width": 1456,
-      "height": 876,
+      "x": 0,
+      "y": 23,
+      "width": 1440,
+      "height": 833,
       "layout": {
         "docks": [
           {
             "docks": [
               {
                 "active": 0,
-                "height": 527,
+                "height": 512,
                 "panels": [
                   "hierarchy.panel"
                 ],
@@ -20,7 +20,7 @@
               },
               {
                 "active": 0,
-                "height": 527,
+                "height": 512,
                 "panels": [
                   "assets.panel"
                 ],
@@ -29,33 +29,34 @@
               },
               {
                 "active": 0,
-                "height": 527,
+                "height": 512,
                 "panels": [
                   "scene.panel"
                 ],
                 "type": "panel",
-                "width": 550
+                "width": 566
               },
               {
                 "active": 0,
-                "height": 527,
+                "height": 512,
                 "panels": [
                   "inspector.panel"
                 ],
                 "type": "panel",
-                "width": 475
+                "width": 459
               }
             ],
-            "height": 527,
+            "height": 512,
             "row": true,
             "type": "dock",
             "width": 1434
           },
           {
             "active": 0,
-            "height": 219,
+            "height": 227,
             "panels": [
-              "console.panel"
+              "console.panel",
+              "timeline.panel"
             ],
             "type": "panel",
             "width": 1434
@@ -65,6 +66,12 @@
         "row": false,
         "type": "dock"
       }
+    },
+    "worker": {
+      "x": 520,
+      "y": 278,
+      "width": 400,
+      "height": 300
     }
   }
 }

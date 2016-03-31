@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sheep_move",
+  "_objFlags": 0,
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            1053,
+            197
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            227,
+            197
+          ]
+        },
+        {
+          "frame": 3,
+          "value": [
+            1047,
+            200
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 1.4833333333333334,
+          "value": 1
+        },
+        {
+          "frame": 1.5,
+          "value": -1
+        }
+      ]
+    }
+  },
+  "events": []
+}
